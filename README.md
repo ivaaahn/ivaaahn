@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivaaahn&label=Profile%20views&color=0e75b6&style=flat" alt="ivaaahn" /> </p>
 
-- 📫 How to reach me **ivahnencko01@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/ivaaahn" target="blank"><img align="center" src="https://www.svgrepo.com/show/303292/telegram-logo.svg" height="30" width="40" />
