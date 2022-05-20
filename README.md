@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Dmitry Ivakhnenko</h1>
 
-<h3 align="left">A Backend Python Developer at <a href="https://kts.studio/" >KTS Studio <img align="center" src="https://static.tildacdn.com/tild6335-6634-4766-b336-353661656437/Group_252.png" height="30" width="40" /> </a> </h3>
+<h3 align="left"> 🐍 Backend Developer at <a href="https://kts.studio/" >KTS Studio </a> </h3>
 
-<h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7(3rd year);</h3>
+<h3 align="left"> 🎓 Software Engineering student at <a href="https://www.bmstu.ru/" > BMSTU </a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivaaahn&label=Profile%20views&color=0e75b6&style=flat" alt="ivaaahn" /> </p>
 
