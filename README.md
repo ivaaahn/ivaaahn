@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Dmitry Ivakhnenko</h1>
+<h1 align="center">👋 I'm Dmitry Ivakhnenko </h1>
 
 <h3 align="left"> 🐍 Backend Developer at <a href="https://kts.studio/" >KTS Studio </a> </h3>
 
