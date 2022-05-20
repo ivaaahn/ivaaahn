@@ -5,7 +5,7 @@
 
 <h3 align="left"> 🎓 Software Engineering student at <a href="https://www.bmstu.ru/" > BMSTU </a> </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivaaahn&label=Profile%20views&color=0e75b6&style=flat" alt="ivaaahn" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivaaahn&label=Profile%20views&color=0e75b6&style=flat" alt="ivaaahn" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
