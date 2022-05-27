@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 I'm Dmitry Ivakhnenko </h1>
 
-<h3 align="left"> 🐍 Backend Developer at <a href="https://kts.studio/" >KTS Studio </a> </h3>
+<h3 align="left"> 🐍 Junior Backend Developer at <a href="https://kts.studio/" >KTS Studio </a> </h3>
 
 <h3 align="left"> 🎓 Software Engineering student at <a href="https://www.bmstu.ru/" > BMSTU </a> </h3>
 
