@@ -1,9 +1,10 @@
 
 <h1 align="center">👋 I'm Dmitry Ivakhnenko </h1>
 
-<h3 align="left"> 🐍 Middle Backend Developer at <a href="https://kts.studio/" >KTS Studio </a> </h3>
+<h3 align="left"> 🐍 21 y.o. Middle Backend Developer at <a href="https://kts.studio/" >KTS Studio </a> </h3>
 
-<h3 align="left"> 🎓 Software Engineering student at <a href="https://www.bmstu.ru/" > BMSTU </a> </h3>
+<h3 align="left"> 🎓 Graduate Software Engineer (<a href="https://www.bmstu.ru/" > BMSTU </a>) </h3>
+<h3 align="left"> 🎓 Information Systems & Technologies Master's student <a href="https://misis.ru/" > MISIS & Yandex </a> </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivaaahn&label=Profile%20views&color=0e75b6&style=flat" alt="ivaaahn" /> </p> -->
 
