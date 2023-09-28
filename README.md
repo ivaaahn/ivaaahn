@@ -3,8 +3,8 @@
 
 <h3 align="left"> 🐍 21 y.o. Middle Backend Developer at <a href="https://kts.studio/" >KTS Studio </a> </h3>
 
-<h3 align="left"> 🎓 Graduate Software Engineer (<a href="https://www.bmstu.ru/" > BMSTU </a>) </h3>
-<h3 align="left"> 🎓 Information Systems & Technologies Master's student <a href="https://misis.ru/" > MISIS & Yandex </a> </h3>
+<h3 align="left"> 🎓 Graduated with a Bachelor in Software Engineering (<a href="https://www.bmstu.ru/" > BMSTU </a>) </h3>
+<h3 align="left"> 🎓  MSc Student in Information Systems & Technologies <a href="https://misis.ru/" > MISIS & Yandex </a> </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivaaahn&label=Profile%20views&color=0e75b6&style=flat" alt="ivaaahn" /> </p> -->
 
