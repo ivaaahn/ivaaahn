@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 I'm Dmitry Ivakhnenko </h1>
 
-<h3 align="left"> 🐍 21 y.o. Middle Backend Developer at <a href="https://kts.studio/" >KTS Studio </a> </h3>
+<h3 align="left"> 🐍 22 y.o. Middle Backend Developer at <a href="https://kts.studio/" >KTS Studio </a> </h3>
 
 <h3 align="left"> 🎓 Graduated with a Bachelor in Software Engineering (<a href="https://www.bmstu.ru/" > BMSTU </a>) </h3>
 <h3 align="left"> 🎓  MSc Student in Information Systems & Technologies <a href="https://misis.ru/" > MISIS & Yandex </a> </h3>
