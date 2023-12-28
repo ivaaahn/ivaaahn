@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 I'm Dmitry Ivakhnenko </h1>
+<h1 align="center">:call_me_hand:  I'm Dmitry Ivakhnenko </h1>
 
 <h3 align="left"> 🐍 22 y.o. Middle Backend Developer at <a href="https://kts.studio/" >KTS Studio </a> </h3>
 
