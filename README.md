@@ -19,7 +19,3 @@
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> <a href="https://fastapi.tiangolo.com/" target="_blank"> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-
-<p><img align="left" src="https://github.com/ivaaahn/github-stats/blob/master/generated/overview.svg" alt="ivaaahn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github.com/ivaaahn/github-stats/blob/master/generated/languages.svg" alt="ivaaahn" /></p>
