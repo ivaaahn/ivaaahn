@@ -4,7 +4,7 @@
 <h3 align="left"> 🐍 23 y.o. Middle Backend Developer at <a href="https://kts.studio/" >KTS Studio </a> </h3>
 
 <h3 align="left"> 🎓 Graduate Software Engineer (<a href="https://www.bmstu.ru/" >BMSTU</a>) </h3>
-<h3 align="left"> 🎓 MSc Student in Information Systems & Technologies (<a href="https://practicum.yandex.ru/high-education-web-developer-magistr/" >NUST MISIS & YandexPracticum</a>) </h3>
+<h3 align="left"> 🎓 MSc Student in Information Systems & Technologies (<a href="https://practicum.yandex.ru/high-education-web-developer-magistr/" >NUST MISIS & YandexPraktikum</a>) </h3>
 
 
 <h3 align="left">Connect with me:</h3>
